@@ -1,0 +1,17 @@
+{
+  "Brand": "google",
+  "Fingerprint": "google/sdk_gphone_x86/generic_x86:10/QSR1.210802.001/7603624:userdebug/dev-keys",
+  "Manufacturer": "Google",
+  "Model": "Android SDK built for x86",
+  "Release": "10",
+  "Serial": "unknown",
+  "Version": 29,
+  "isTesting": false,
+  "reactNativeVersion": {
+    "major": 0,
+    "minor": 66,
+    "patch": 3,
+    "prerelease": null
+  },
+  "uiMode": "normal"
+}
