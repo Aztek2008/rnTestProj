@@ -1,7 +1,7 @@
 import React from 'react';
 import {NavigationContainer} from '@react-navigation/native';
 import {render, fireEvent, RenderAPI} from '@testing-library/react-native';
-import MainScreen from '../screens/MainScreen';
+import MainScreen from '../src/screens/MainScreen';
 
 describe('MAIN SCREEN GROUP:', () => {
   const createTestProps = (props: Object) => ({

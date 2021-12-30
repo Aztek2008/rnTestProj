@@ -1,6 +1,6 @@
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
-import {User} from '../components/UsersList';
+import {User} from './UsersList';
 
 export const UserDetails = ({item}: {item: User}) => {
   const {name, age} = item;

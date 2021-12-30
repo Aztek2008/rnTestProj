@@ -3,7 +3,7 @@
 //  */
 import React from 'react';
 import renderer from 'react-test-renderer';
-import App from '../App';
+import App from '../src/components/App';
 
 // Avoiding ReferenceError: You are trying to `import` a file after the Jest environment has been torn down.
 jest.useFakeTimers();
